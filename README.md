@@ -32,13 +32,7 @@ ES has had many updates to the language, though the sixth update had a major enh
 The standard set in writing JavaScript code is to keep it consistent. It allows for code clarity. As a developer the readability of our code is the most important thing. It will make projects easier when collaborating or bugs faster to address.
 
 Our [app.js](/static/js/app.js)
-<p align="center">
-  <img width="900" height="400" src="/pics/webpage.png">
-</p>
-<p align="center">
-  <img width="900" height="400" src="/pics/filter.png">
-</p>  
-
+ 
 ## Challenge Overview
 In this challenge, we created additional filters for the webpage. The advanced filtering capability allows users to filter the data by multiple factors.  
 
@@ -48,7 +42,6 @@ In this challenge, we created additional filters for the webpage. The advanced f
 - Update and populate the dynamic filters and table using JavaScript and HTML.  
 
 ## Challenge Summary  
-<img align="right" width="500" height="250" src="/pics/challenge1.png">
 
 #### Instructions  
 Include five total filters in the table:
@@ -58,9 +51,5 @@ Include five total filters in the table:
 - Country
 - Shape  
 
-<p align="center">
-  <img width="900" height="400" src="/pics/challenge2.png">
-</p>  
-
 ## Limitations  
-A recommendation for further development would be to filter the other columns. Analysis could be done on the Duration of the sightings and/or the Comments for correlation of events. Also, more user friendly input fields could be built. Such as, drop boxes.  
+A recommendation for further development would be to filter the other columns. Analysis could be done on the Duration of the sightings and/or the Comments for correlation of events. Also, more user friendly input fields could be built. Such as, drop boxes.   
